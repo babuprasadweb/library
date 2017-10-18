@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# ignore microsoft visual source code editor files
+.vscode
